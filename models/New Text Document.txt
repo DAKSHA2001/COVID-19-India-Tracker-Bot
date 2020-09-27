@@ -1,0 +1,1 @@
+Please add the model with the extension .tar.gz into the model folder. Due to high space size I have uploaded it via Github lfs
